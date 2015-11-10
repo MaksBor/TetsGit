@@ -3,5 +3,4 @@ logs/
 .settings/
 # txt files
 docs/*.txt
-src/
-bin/
+
